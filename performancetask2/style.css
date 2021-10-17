@@ -1,4 +1,4 @@
-      body }
+      body {
              font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
              text-transform: uppercase;
          }
@@ -21,11 +21,11 @@
             img { width: 100px ;}
 
             p{
-             font-size: 12px;
+                  font-size: 12px;}
             a{font-size: 10px;
 
             }
-            }
+            
             p, a{
                text-transform: none;
             }
